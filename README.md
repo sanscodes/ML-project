@@ -17,5 +17,5 @@ Attribute Information
 'published' : The data of uploading the video
 'duration' : The duration of the video (in min. and seconds)
 'category' : Category niche of each of the video
-Objective
+# Objective
 To build a machine learning regression to predict youtube adview count based on other youtube metrics.
