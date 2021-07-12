@@ -5,9 +5,9 @@ Youtube advertisers pay content creators based on adviews and clicks for the goo
 Data
 The file train.csv contains metrics and other details of about 15000 youtube videos. The metrics include number of views, likes, dislikes, comments and apart from that published date, duration and category are also included. The train.csv file also contains the metric number of adviews which is our target variable for prediction. The data needs to be refined and cleaned before feeding in the algorithms for better results.
 
-Click here to download the Data Set.
 
-Attribute Information
+
+# Attribute Information
 'vidid' : Unique Identification ID for each video
 'adview' : The number of adviews for each video
 'views' : The number of unique views for each video
